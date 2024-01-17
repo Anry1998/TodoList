@@ -1,0 +1,13 @@
+.listId {
+    font-size:  20px;
+    font-weight: 400;
+    font-family: cursive;
+    font-style: italic
+}
+
+
+.listContent {
+    font-family: cursive;
+    font-style: italic;
+    font-size:  18px;
+}
